@@ -1,0 +1,16 @@
+baseURL = "http://works.nunogodinho.com/"
+languageCode = "en-us"
+title = "Works by Nuno Godinho"
+theme = "hugo-creative-portfolio-theme"
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+  year = "years"
+
+#[params]
+#  copyright = "&copy;2020 Nuno Godinho"
+#
+#  [[paramis.navlinks]]
+#  name = "Works"
+#  url = "works/"
