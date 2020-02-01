@@ -1,7 +1,7 @@
 baseURL = "http://works.nunogodinho.com/"
 languageCode = "en-us"
 title = "Works by Nuno Godinho"
-theme = "hugo-creative-portfolio-theme"
+theme = "nununo-creative-portfolio-theme"
 
 [taxonomies]
   category = "categories"
