@@ -8,9 +8,42 @@ theme = "hugo-creative-portfolio-theme"
   tag = "tags"
   year = "years"
 
-#[params]
-#  copyright = "&copy;2020 Nuno Godinho"
-#
-#  [[paramis.navlinks]]
-#  name = "Works"
-#  url = "works/"
+[params]
+  copyright = "&copy;2020 Nuno Godinho"
+
+  [[params.navlinks]]
+  name = "works"
+  url = "/works"
+  home = false
+
+  [[params.navlinks]]
+  name = "events"
+  url = "/events"
+
+ [[params.navlinks]]
+  name = "video"
+  url = "/categories/video"
+
+ [[params.navlinks]]
+  name = "audio"
+  url = "/categories/audio"
+
+ [[params.navlinks]]
+  name = "photo"
+  url = "/categories/photo"
+
+ [[params.navlinks]]
+  name = "object"
+  url = "/categories/object"
+
+ [[params.navlinks]]
+  name = "workds"
+  url = "/categories/words"
+
+ [[params.navlinks]]
+  name = "others"
+  url = "/categories/others"
+
+  [[params.navlinks]]
+  name = "about me"
+  url = "/about"
