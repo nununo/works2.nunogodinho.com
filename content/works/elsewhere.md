@@ -20,6 +20,7 @@ TODO IMAGES
 
 Here are two examples of sounds. Being binaural recordings, they only work if you use headphones, speakers will not create the desired immersive effect.
 
-TODO AUDIOS
+{{< audio "/posts/elsewhere/elsewhere-correios.mp3" >}}
+{{< audio "/posts/elsewhere/elsewhere-rua_dois_sentidos.mp3" >}}
 
 Elsewhere was presented in Schok Festival 2017, in Holland.

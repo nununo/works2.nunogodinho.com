@@ -16,7 +16,7 @@ With that initial footage I made this film:
 
 After several intermediate steps, I ended up with an audio piece (much to my surprise). It can be heard here:
 
-TODO AUDIO
+{{< audio "/posts/emocoes/emocoes.mp3" >}}
 
 The audio piece was generated on [Max/MSP][1] using a Behringer fader controller.
 

@@ -18,6 +18,7 @@ Here's a video of it being played:
 Here you can listen to the audio:
 (the clicking noise is caused by turning the knob on the music box)
 
-TODO AUDIO
+{{< audio "/posts/telepatia/telepatia-caixinha_de_musica.mp3" >}}
 
 [1]: http://pt.wikipedia.org/wiki/Lara_Li
+[2]: /posts/telepatia/telepatia-caixinha_de_musica.mp3
