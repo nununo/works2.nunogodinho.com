@@ -14,7 +14,7 @@ theme = "hugo-creative-portfolio-theme"
   [[params.navlinks]]
   name = "works"
   url = "/works"
-  home = false
+  home = true
 
   [[params.navlinks]]
   name = "events"
