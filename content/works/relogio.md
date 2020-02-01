@@ -1,7 +1,7 @@
 ---
 title: "Relógio"
 date: 2010-12-30T00:00:00Z
-image: "img/postphotos/post-relogio.jpg"
+image: "postphotos/post-relogio.jpg"
 categories: [object]
 tags: []
 year: [2010]

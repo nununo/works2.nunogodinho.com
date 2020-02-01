@@ -1,7 +1,7 @@
 ---
 title: "Self-trailer"
 date: 2006-01-03T00:00:00Z
-image: "img/postphotos/post-self-trailer.jpg"
+image: "postphotos/post-self-trailer.jpg"
 categories: [video]
 tags: [found footage, minidv, projection]
 year: [2006]

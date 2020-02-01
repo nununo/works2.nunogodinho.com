@@ -1,7 +1,7 @@
 ---
 title: "Revulva"
 date: 2011-07-17T00:00:00Z
-image: "img/postphotos/post-revulva.jpg"
+image: "postphotos/post-revulva.jpg"
 categories: [video]
 tags: []
 year: [2011]

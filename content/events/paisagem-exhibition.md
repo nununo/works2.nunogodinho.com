@@ -1,7 +1,7 @@
 ---
 title: "Collective exhibition Paisagem"
 date: 2017-05-06T00:00:00Z
-image: "img/postphotos/post-paisagem-exhibition.jpg"
+image: "postphotos/post-paisagem-exhibition.jpg"
 categories: [event]
 tags: []
 year: [2017]

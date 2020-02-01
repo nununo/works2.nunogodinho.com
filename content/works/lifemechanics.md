@@ -1,7 +1,7 @@
 ---
 title: "Mecânica da vida"
 date: 2005-11-03T00:00:00Z
-image: "img/postphotos/post-lifemechanics.jpg"
+image: "postphotos/post-lifemechanics.jpg"
 categories: [words]
 tags: [essay, life]
 years: [2005]

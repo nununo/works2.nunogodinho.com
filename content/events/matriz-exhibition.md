@@ -1,7 +1,7 @@
 ---
 title: "Matriz exhibition"
 date: 2019-03-31T00:00:00Z
-image: "img/postphotos/post-matriz-exhibition.jpg"
+image: "postphotos/post-matriz-exhibition.jpg"
 categories: [event]
 tags: []
 year: [2019]

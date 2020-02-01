@@ -1,7 +1,7 @@
 ---
 title: "Schok Festival 2017"
 date: 2017-10-06T00:00:00Z
-image: "img/postphotos/post-schok2017.jpg"
+image: "postphotos/post-schok2017.jpg"
 categories: [event]
 tags: []
 year: [2017]

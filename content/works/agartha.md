@@ -1,7 +1,7 @@
 ---
 title: "Agartha Existe"
 date: 2007-06-23T00:00:00Z
-image: "img/postphotos/post-agartha.jpg"
+image: "postphotos/post-agartha.jpg"
 categories: [others]
 tags: []
 year: [2007]

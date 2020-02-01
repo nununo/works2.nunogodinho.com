@@ -1,7 +1,7 @@
 ---
 title: "Elsewhere"
 date: 2020-01-27T22:40:30Z
-image: "img/postphotos/post-elsewhere.jpg"
+image: "postphotos/post-elsewhere.jpg"
 categories: [audio]
 years: [2017]
 draft: true

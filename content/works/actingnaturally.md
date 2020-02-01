@@ -1,7 +1,7 @@
 ---
 title: "Acting Naturally"
 date: 2013-10-20T00:00:00Z
-image: "img/postphotos/post-actingnaturally.jpg"
+image: "postphotos/post-actingnaturally.jpg"
 categories: [video]
 tags: []
 year: [2013]

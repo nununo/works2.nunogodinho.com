@@ -1,7 +1,7 @@
 ---
 title: "Foca"
 date: 2006-01-03T00:00:00Z
-image: "img/postphotos/post-foca.jpg"
+image: "postphotos/post-foca.jpg"
 categories: [video]
 tags: [minidv]
 year: [2006]

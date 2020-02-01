@@ -1,7 +1,7 @@
 ---
 title: "Schok Festival 2019"
 date: 2019-06-13T00:00:00Z
-image: "img/postphotos/post-schok2019.jpg"
+image: "postphotos/post-schok2019.jpg"
 categories: [event]
 tags: []
 year: [2019]

@@ -1,7 +1,7 @@
 ---
 title: "Pin-Up"
 date: 2006-09-31T00:00:00Z
-image: "img/postphotos/post-pin-up.jpg"
+image: "postphotos/post-pin-up.jpg"
 categories: [video]
 tags: [generative, vvvv]
 year: [2006]

@@ -1,7 +1,7 @@
 ---
 title: "Poupe-nos"
 date: 2007-06-05T00:00:00Z
-image: "img/postphotos/post-poupe-nos.jpg"
+image: "postphotos/post-poupe-nos.jpg"
 categories: [video]
 tags: []
 year: [2007]

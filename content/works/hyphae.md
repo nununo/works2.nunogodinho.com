@@ -1,7 +1,7 @@
 ---
 title: "Hyphae"
 date: 2019-04-26T00:00:00Z
-image: "img/postphotos/post-hyphae.jpg"
+image: "postphotos/post-hyphae.jpg"
 categories: [video]
 tags: [4k, generative, openframeworks]
 years: [2019]

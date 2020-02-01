@@ -1,7 +1,7 @@
 ---
 title: "Telepatia"
 date: 2003-12-01T00:00:00Z
-image: "img/postphotos/post-telepatia.jpg"
+image: "postphotos/post-telepatia.jpg"
 categories: [audio]
 tags: []
 year: [2003]

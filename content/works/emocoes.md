@@ -1,7 +1,7 @@
 ---
 title: "Emoções"
 date: 2005-06-02T00:00:00Z
-image: "img/postphotos/post-emocoes.jpg"
+image: "postphotos/post-emocoes.jpg"
 categories: [audio, video]
 tags: [ArCo, MaxMSP, minidv]
 year: [2005]

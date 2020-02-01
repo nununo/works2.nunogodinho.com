@@ -1,7 +1,7 @@
 ---
 title: "Collective exhibition Nevertheless"
 date: 2019-05-22T00:00:00Z
-image: "img/postphotos/post-nevertheless-exhibition.jpg"
+image: "postphotos/post-nevertheless-exhibition.jpg"
 categories: [event]
 tags: []
 year: [2019]

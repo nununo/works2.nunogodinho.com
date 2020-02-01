@@ -1,7 +1,7 @@
 ---
 title: "Collective exhibition Panorama"
 date: 2018-03-05T00:00:00Z
-image: "img/postphotos/post-panorama-exhibition.jpg"
+image: "postphotos/post-panorama-exhibition.jpg"
 categories: [event]
 tags: []
 year: [2018]

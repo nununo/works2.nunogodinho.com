@@ -1,7 +1,7 @@
 ---
 title: "Self-portrait"
 date: 2006-07-12T00:00:00Z
-image: "img/postphotos/post-self-portrait.jpg"
+image: "postphotos/post-self-portrait.jpg"
 categories: [video]
 tags: []
 year: [2006]

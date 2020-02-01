@@ -1,7 +1,7 @@
 ---
 title: "Maestro"
 date: 2010-02-01T00:00:00Z
-image: "img/postphotos/post-maestro.jpg"
+image: "postphotos/post-maestro.jpg"
 categories: [video]
 tags: []
 year: [2010]

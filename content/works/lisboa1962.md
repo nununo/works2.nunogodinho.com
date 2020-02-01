@@ -1,7 +1,7 @@
 ---
 title: "Lisboa, 1962"
 date: 2008-03-23T00:00:00Z
-image: "img/postphotos/post-lisboa1962.jpg"
+image: "postphotos/post-lisboa1962.jpg"
 categories: [photo]
 tags: [lisbon, panorama]
 year: [2008]

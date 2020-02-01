@@ -1,7 +1,7 @@
 ---
 title: "Details of Trip to Nepal"
 date: 2016-12-01T00:00:00Z
-image: "img/postphotos/post-details-of-trip-to-nepal.jpg"
+image: "postphotos/post-details-of-trip-to-nepal.jpg"
 categories: [photo]
 tags: []
 year: [2016]

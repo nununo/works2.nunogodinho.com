@@ -1,7 +1,7 @@
 ---
 title: "Still Life"
 date: 2004-12-03T00:00:00Z
-image: "img/postphotos/post-stilllife.jpg"
+image: "postphotos/post-stilllife.jpg"
 categories: [video]
 tags: [minidv, still life]
 year: [2004]

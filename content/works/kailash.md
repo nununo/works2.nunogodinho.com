@@ -1,7 +1,7 @@
 ---
 title: "Kailash"
 date: 2006-05-28T00:00:00Z
-image: "img/postphotos/post-kailash.jpg"
+image: "postphotos/post-kailash.jpg"
 categories: [words]
 tags: [kailash, portuguese, tibet]
 year: [2006]

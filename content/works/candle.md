@@ -1,7 +1,7 @@
 ---
 title: "Candle"
 date: 2020-01-27T22:36:57Z
-image: "img/postphotos/post-candle.jpg"
+image: "postphotos/post-candle.jpg"
 categories: [video]
 tags: [arduino, generative, interactive, python, sensors]
 years: [2017]

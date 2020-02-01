@@ -1,7 +1,7 @@
 ---
 title: "Gel"
 date: 2005-11-03T00:00:00Z
-image: "img/postphotos/post-gel.jpg"
+image: "postphotos/post-gel.jpg"
 categories: [video]
 tags: [found footage]
 year: [2005]

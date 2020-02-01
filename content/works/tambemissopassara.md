@@ -1,7 +1,7 @@
 ---
 title: "Também isso passará"
 date: 2012-10-28T00:00:00Z
-image: "img/postphotos/post-tambemissopassara.jpg"
+image: "postphotos/post-tambemissopassara.jpg"
 categories: [object]
 tags: []
 year: [2012]

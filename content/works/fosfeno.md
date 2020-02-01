@@ -1,7 +1,7 @@
 ---
 title: "Fosfeno"
 date: 2011-05-09T00:00:00Z
-image: "img/postphotos/post-fosfeno.jpg"
+image: "postphotos/post-fosfeno.jpg"
 categories: [video]
 tags: [generative, openframeworks]
 year: [2011]

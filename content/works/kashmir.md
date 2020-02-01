@@ -1,7 +1,7 @@
 ---
 title: "Photo-reportage on Kashmir"
 date: 2007-03-03T00:00:00Z
-image: "img/postphotos/post-kashmir.jpg"
+image: "postphotos/post-kashmir.jpg"
 categories: [words]
 tags: [india, kashmir, portuguese]
 years: [2003]

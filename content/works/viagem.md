@@ -1,7 +1,7 @@
 ---
 title: "Viagem"
 date: 2011-07-25T00:00:00Z
-image: "img/postphotos/post-viagem.jpg"
+image: "postphotos/post-viagem.jpg"
 categories: [video]
 tags: []
 year: [2011]
