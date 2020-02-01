@@ -21,6 +21,10 @@ theme = "hugo-creative-portfolio-theme"
   url = "/events"
 
  [[params.navlinks]]
+  name = ""
+  url = ""
+
+ [[params.navlinks]]
   name = "video"
   url = "/categories/video"
 
@@ -37,12 +41,16 @@ theme = "hugo-creative-portfolio-theme"
   url = "/categories/object"
 
  [[params.navlinks]]
-  name = "workds"
+  name = "words"
   url = "/categories/words"
 
  [[params.navlinks]]
   name = "others"
   url = "/categories/others"
+
+ [[params.navlinks]]
+  name = ""
+  url = ""
 
   [[params.navlinks]]
   name = "about me"
