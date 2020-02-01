@@ -14,7 +14,6 @@ draft: true
 Authors: Sílvia González, Mário Silva, Rui Almeida and me. It ended up being one of the chosen clips to be broadcast on Environment Day.
 
 You can preview it here:
-
-TODO VIMEO
+{{< vimeo 370296 >}}
 
 [1]: http://www.sic.pt

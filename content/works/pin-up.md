@@ -18,8 +18,7 @@ It was developed using the [vvvv][1] framework and I’d like to thank the vvvv 
 It should be presented in a widescreen 15.4″ TFT screen in portrait orientation.
 
 Here’s a video sample:
-
-TODO VIMEO
+{{< vimeo 924338 >}}
 
 And here are some frames from the video:
 

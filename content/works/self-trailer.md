@@ -12,7 +12,6 @@ I was asked to make a trailer on myself. I made this video in which, using a vid
 <!--more-->
 
 Self-trailer can be previewed here. Please remember this is a low quality web version. You’re supposed to view it in a projection or a big screen.
-
-TODO VIMEO
+{{< vimeo 370529 >}}
 
 [1]: http://www.imdb.com/title/tt0060196

@@ -18,8 +18,7 @@ This is an interactive candle. A video shows a candle calmly burning. If someone
 TODO IMAGE
 
 A video of someone interacting with the Candle:
-
-TODO VIDEO
+{{< vimeo 237044360 >}}
 
 Some details of the candle flame. Click to enlarge:
 

@@ -17,9 +17,8 @@ This is not true. But it could be. And that is the subject of this work.
 
 I went countless times to this sightseeing spot, put the camera on a tripod, pressed REC and waited, in the hope that interesting events would eventually take place. Having collected several hours of footage, my initial intention was to compile the most relevant moments into a pseudo-narrative. But somewhere among all those hours of footage I found something I could not have foreseen. Serendipity offered me 10 full minutes of uninterrupted coherent and apparently causal events. No need to select and compile after all. The whole story was already there to be found.
 
-["Acting Naturally" can be viewed at s[edition] where digital versions are available for sale][1]:
-
-TODO VIDEO
+"Acting Naturally" can be [viewed at s[edition]][1] where digital versions are available for sale:
+{{< sedition 101928>}}
 
 Some frames:
 

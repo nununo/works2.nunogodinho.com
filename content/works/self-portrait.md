@@ -12,8 +12,7 @@ Self-portrait is an installation which consists of a large flat screen placed in
 <!--more-->
 
 Self-portrait can be previewed here. But please remember this is a low quality version and the real work is supposed to be see in a large horizontally placed LCD screen.
-
-TODO VIMEO
+{{< vimeo 370289 >}}
 
 Self-portrait was shown in the following places:
 

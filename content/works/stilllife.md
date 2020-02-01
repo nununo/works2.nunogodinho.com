@@ -13,7 +13,7 @@ A homage to classical still life painting tradition.
 
 Still Life can be previewed here. But please remember this is a low quality version and the real work is supposed to be seen in a full screen color monitor.
 
-TODO VIMEO
+{{< vimeo 370299 >}}
 
 Still Life was shown in:
 

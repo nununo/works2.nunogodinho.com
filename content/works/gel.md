@@ -16,8 +16,7 @@ Gel is a 1’50” loop based on found footage of a movie called [Millionaire][1
 Soundtrack by Hugo Brito and Nuno Godinho.
 
 Gel can be previewed here. But please remember this is a low quality version and the real work is supposed to be see in a large scale video projection.
-
-TODO VIMEO
+{{< vimeo 370491 >}}
 
 Gel was shown in the following places:
 

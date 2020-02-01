@@ -12,8 +12,7 @@ The audio piece «Emoções» (Emotions) is the result of a Workshop with Hugo B
 <!--more-->
 
 With that initial footage I made this film:
-
-TODO VIMEO
+{{< vimeo 413117 >}}
 
 After several intermediate steps, I ended up with an audio piece (much to my surprise). It can be heard here:
 

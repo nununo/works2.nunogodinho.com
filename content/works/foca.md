@@ -12,5 +12,4 @@ In Portuguese the word "foca" is the imperative tense of the verb _to focus_. It
 <!--more-->
 
 Foca can be previewed here:
-
-TODO VIMEO
+{{< vimeo 399272 >}}

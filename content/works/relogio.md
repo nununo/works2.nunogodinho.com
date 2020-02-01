@@ -13,7 +13,7 @@ _Object (14 x 14 x 6 cm), arduino, 7-segment display_
 Clocks are expected to tell the time. This clock also tells the time, but one that is impossible in our world.
 <!--more-->
 
-TODO VIMEO
+{{< vimeo 18294729 >}}
 
 As we grow up, we learn to recognize specific patterns and forms without giving them much thought. We apprehend them automatically. If, for some reason, we fail to recognize or decode one of these expected patterns and forms, our brain interrupts its automatism and switches to a more aware mode, thus applying a different degree of attention to the object that posed the challenge, forcing us to reconsider our relationship with it.
 
