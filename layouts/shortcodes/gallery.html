@@ -1,0 +1,11 @@
+{{ with .Page.Resources.Match (.Get 0) }}
+{{ with .ByType "image" }}
+	<div class="Gallery">
+		{{ range . }}
+			<div class='Gallery__item'>
+				<img src="{{ .RelPermalink }}" />
+			</div>
+		{{ end }}
+	</div>
+{{ end }}
+{{ end }}
