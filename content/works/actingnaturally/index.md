@@ -9,7 +9,7 @@ draft: true
 
 _Video projection (32:9), color, no sound, 10'_
 
-After building a very detailed and realistic scenery, I hired 27 actors who painstakingly rehearsed and staged this complex narrative telling the story of a group of people that go to a place to [look][2].
+After building a very detailed and realistic scenery, I hired 27 actors who painstakingly rehearsed and staged this complex narrative telling the story of a group of people that go to a place to look.
 <!--more-->
 
 This is not true. But it could be. And that is the subject of this work.
@@ -23,4 +23,3 @@ Some frames:
 {{< gallery "images/*" >}}
 
 [1]: http://www.seditionart.com/nuno_godinho/acting-naturally
-[2]: /nowhere
