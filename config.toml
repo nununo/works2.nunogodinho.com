@@ -8,6 +8,9 @@ theme = "nununo-creative-portfolio-theme"
   tag = "tags"
   year = "years"
 
+[permalinks]
+  works = "/:title/"
+
 [params]
   copyright = "&copy;2020 Nuno Godinho"
 
