@@ -19,14 +19,13 @@ I presented two pieces: the interactive video installation [Vela][2] and the scu
 {{< gallery "images/*" >}}
 
 {{< vimeo 258536723 >}}
-Press:
-* [Le Consultat site][4]
-* [ARTECAPITAL][5]
-* [Observador][6]
+
+#### Press
+* [ARTECAPITAL][4]
+* [Observador][5]
 
 [1]: https://leconsulat.pt
 [2]: /works/candle
 [3]: /works/tambemissopassara
-[4]: https://leconsulat.pt/2017/11/15/agenda-3
-[5]: http://www.artecapital.net/recomendacoes.php?ref=1229
-[6]: http://observador.pt/2017/05/25/consulado-do-brasil-da-lugar-a-um-hotel-onde-se-pode-dormir-entre-obras-de-arte
+[4]: http://www.artecapital.net/recomendacoes.php?ref=1229
+[5]: http://observador.pt/2017/05/25/consulado-do-brasil-da-lugar-a-um-hotel-onde-se-pode-dormir-entre-obras-de-arte
