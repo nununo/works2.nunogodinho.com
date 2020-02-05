@@ -1,0 +1,8 @@
+#!/bin/sh
+USER=despubli
+HOST=despublicitador.com            
+DIR=public_html/works2.nunogodinho.com  # the directory where your web site files should go
+
+hugo -D && rsync -avz --delete public/ ${USER}@${HOST}:~/${DIR}
+
+exit 0
