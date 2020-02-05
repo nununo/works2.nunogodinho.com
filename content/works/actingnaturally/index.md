@@ -17,7 +17,7 @@ After building a very detailed and realistic scenery, I hired 27 actors who pain
 Some frames:
 {{< gallery "images/*" >}}
 
-Public presentations:
+#### Public presentations
 * 13e Édition Ouvertures d'Ateliers d'Artistes 2011, Marseille
 * Abertura de Ateliês de Artistas 2011, Lisboa
 * [Exposição colectiva Paisagem][2] at Sociedade Nacional de Belas Artes, Lisboa
