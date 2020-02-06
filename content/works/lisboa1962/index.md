@@ -1,18 +1,17 @@
 ---
 title: "Lisboa, 1962"
 date: 2008-03-23T00:00:00Z
+technical_description: 5 digital prints on glossy photographic paper, (40 x 30 cm each)
 categories: [photo]
 tags: [lisbon, panorama]
 year: [2008]
-draft: true
+draft: false
 ---
-
-_5 digital prints on glossy photographic paper, (40 x 30 cm each)_
 
 In 1962 the construction works for the new bridge across river Tejo connecting Lisboa and Almada started. Since then the city’s landscape changed forever. Inspired by a famous tile mosaic of Lisboa’s landscape (found in [Museu Nacional do Azulejo][1]), this work recreates a photographic view of the city which lets us see it without the bridge again.
 <!--more-->
 
-Click it to enlarge:
+Click to enlarge:
 [![Lisboa 1962][2]][2]
 
 This panoramic view of Lisboa without its bridge was not achieved by digitally removing it. Instead, photos were taken to the left and to the right of the bridge and then stiched together. The bridge was not photographed.
