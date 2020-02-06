@@ -18,7 +18,7 @@ Some frames:
 {{< gallery "images/*" >}}
 
 #### Public presentations
-* 13e Édition Ouvertures d'Ateliers d'Artistes 2011, Marseille
+* 15e Édition Ouvertures d'Ateliers d'Artistes 2013, Marseille
 * Abertura de Ateliês de Artistas 2011, Lisboa
 * [Exposição colectiva Paisagem][2] at Sociedade Nacional de Belas Artes, Lisboa
 
