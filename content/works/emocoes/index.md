@@ -19,6 +19,7 @@ After several iterative steps, I ended up making this audio piece:
 The audio piece was generated on [Max/MSP][1] using a Behringer fader controller.
 
 #### Public presentations
+
 * ArCo 2005 annual student exhibition, Almada
 
 [1]: http://www.cycling74.com/products/maxmsp

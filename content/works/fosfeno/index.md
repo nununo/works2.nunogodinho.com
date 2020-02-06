@@ -18,6 +18,7 @@ The limits of perception are not fixed. They depend on several factors. A face, 
 Note: given the nature of this work, if the image is still, it is not representative of the piece.
 
 Fosfeno was shown in the following places:
+
 * Abertura de Ateliês de Artistas 2013 at Atelier Concorde, Lisboa
 * 13e Édition Ouvertures d'Ateliers d'Artistes 2011, Marseille
 

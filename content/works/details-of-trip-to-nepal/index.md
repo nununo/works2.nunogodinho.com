@@ -22,6 +22,7 @@ Detail of child's tshirt:
 (Work in progress)
 
 #### Public presentations
+
 * Abertura de Ateliês de Artistas 2016 at Atelier Concorde, Lisboa
 
 [1]: images/maeefilho.png

@@ -22,6 +22,7 @@ Here are two examples of sounds. Being binaural recordings, they only work if yo
 {{< audio "audio/elsewhere-rua_dois_sentidos.mp3" >}}
 
 #### Public presentations
+
 * [SchoK Festival 2017][1], Schoorl, Netherlands
 
 [1]: {{< ref "schok2017" >}}
