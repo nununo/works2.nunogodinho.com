@@ -4,10 +4,10 @@ date: 2006-05-28T00:00:00Z
 categories: [words]
 tags: [kailash, portuguese, tibet]
 year: [2006]
-draft: true
+draft: false
 ---
 
-«A última peregrinação a Kailash» (The last pilgrimage to Kailash) is a photo-reportage I wrote describing my (somewhat illegal) attempt to visit the famous Kailash sacred mountain during my trip to Tibet.
+**A última peregrinação a Kailash** (The last pilgrimage to Kailash) is a photo-reportage I wrote describing my (somewhat illegal) attempt to visit the famous Kailash sacred mountain during my trip to Tibet.
 <!--more-->
 
 If you understand Portuguese you can read it [here][1].
