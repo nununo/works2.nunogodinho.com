@@ -1,13 +1,12 @@
 ---
 title: "Também isso passará"
 date: 2012-10-28T00:00:00Z
+technical_description: Sculpture, aluminium
 categories: [object]
 tags: []
 year: [2012]
-draft: true
+draft: false
 ---
-
-_Sculpture, aluminium_
 
 This sculpture is a film.
 <!--more-->
@@ -16,7 +15,12 @@ But while in conventional cinema the device is exterior to the viewer who must r
 
 {{< vimeo 51829086 >}}
 
-An English title would be "That too shall pass".
+An possible English title would be "That too shall pass".
 
 #### Public presentations
+
+* [Abertura de Ateliês de Artistas 2013][1] at [Atelier Concorde][2], Lisboa
 * 15e Édition Ouvertures d'Ateliers d'Artistes 2013, Marseille
+
+[1]: https://castelodif.pt/index.php/castelo-d-if/aaa-2013
+[2]: https://atelierconcorde.org
