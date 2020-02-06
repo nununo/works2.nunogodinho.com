@@ -1,13 +1,12 @@
 ---
 title: "Fosfeno"
 date: 2011-05-09T00:00:00Z
+technical_description: Generative video (16:9 vertical), color, 19” LCD screen, variable duration
 categories: [video]
 tags: [generative, openframeworks]
 year: [2011]
-draft: true
+draft: false
 ---
-
-_Generative video (16:9 vertical), color, 19” LCD screen, variable duration_
 
 At first sight you see only white noise. But under the right circumstances, more is revealed.
 <!--more-->
@@ -18,9 +17,8 @@ The limits of perception are not fixed. They depend on several factors. A face, 
 
 Note: given the nature of this work, if the image is still, it is not representative of the piece.
 
-Technical description: Generative video (16:9 vertical), color, 19” LCD screen, variable duration
-
 Fosfeno was shown in the following places:
-* Nov 2011 – Ouvertures d’Ateliers – Marseille, France
+* Abertura de Ateliês de Artistas 2013 at Atelier Concorde, Lisboa
+* 13e Édition Ouvertures d'Ateliers d'Artistes 2011, Marseille
 
 [1]: images/fosfeno-frame.jpg
