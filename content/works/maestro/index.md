@@ -1,13 +1,12 @@
 ---
 title: "Maestro"
 date: 2010-02-01T00:00:00Z
+technical_description: Projected video (DVD 4:3), b&w, sound, 9'32" (loop)
 categories: [video]
 tags: []
 year: [2010]
-draft: true
+draft: false
 ---
-
-_Projected video (DVD 4:3), b&w, sound, 9’ 32’’ (loop)_
 
 The maestro is forced to move in a way he never intended to and in this way creates music he never wished for.
 <!--more-->
@@ -20,11 +19,12 @@ The sound, sampled from a classical symphony, followed a similar process. The or
 
 This way, the maestro in the video is forced to describe circles with his baton while, in a similar circular fashion, the music is forced to become strong or calm, staccato or legato. The result reveals the artificiality of the process but also a new order in which one can almost believe.
 
-Maestro was shown in the following places:
-* May 2010 – SmallBox28 of Pavilhão 28 – Lisboa, Portugal
-* Nov 2010 – [Atelier Concorde][1] – Lisboa, Portugal
-Nov 2011 – Ouvertures d’Ateliers – Marseille, France
-
 I wish to thank Graham Hurman for giving me permission to use his image in my project.
+
+#### Public presentations
+
+* SmallBox28 of Pavilhão 28, Lisboa
+* Abertura de Ateliês de Artistas 2011 at [Atelier Concorde][1], Lisboa
+* 13e Ouvertures d’Ateliers, Marseille, France
 
 [1]: http://atelierconcorde.org
