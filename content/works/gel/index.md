@@ -4,7 +4,7 @@ date: 2005-11-03T00:00:00Z
 categories: [video]
 tags: [found footage]
 year: [2005]
-draft: true
+draft: false
 ---
 
 Flesh melting over melted flesh. Flesh doing what flesh does.
@@ -14,15 +14,14 @@ Gel is a 1’50” loop based on found footage of a movie called [Millionaire][1
 
 Soundtrack by Hugo Brito and Nuno Godinho.
 
-Gel can be previewed here. But please remember this is a low quality version and the real work is supposed to be see in a large scale video projection.
+Gel can be previewed here:
 {{< vimeo 370491 >}}
 
-Gel was shown in the following places:
-
-* +Olhares 2006 at [Chapitô][2] – Lisboa, Portugal
-* [FRAME – International Dance-Video Festival 2006][3] at Rivoli Teatro Municipal – Porto, Portugal
-* [ATTITUDE Festival 2006][4] – Macedonia
-* [Liquid room – Video Art & Architecture event 2007][5] – Lithuania
+#### Public presentations
+* +Olhares 2006 at [Chapitô][2], Lisboa, Portugal
+* [FRAME – International Dance-Video Festival 2006][3] at Rivoli Teatro Municipal, Porto, Portugal
+* [ATTITUDE Festival 2006][4], Macedonia
+* [Liquid room – Video Art & Architecture event 2007][5], Lithuania
 
 [1]: http://www.imdb.com/title/tt0437440
 [2]: http://www.chapito.org
