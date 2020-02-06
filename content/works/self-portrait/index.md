@@ -1,20 +1,19 @@
 ---
 title: "Self-portrait"
 date: 2006-07-12T00:00:00Z
+technical_description: Video installation, video (4:3), color, no sound, 2'32" loop
 categories: [video]
 tags: []
 year: [2006]
-draft: true
+draft: false
 ---
 
-Self-portrait is an installation which consists of a large flat screen placed in a horizontal position and framed inside a box in a way that the screen becomes square. Placed in this way, I look up to the viewers who, in their turn, look down on me.
+**Self-portrait** is an installation which consists of a large flat screen placed in a horizontal position and framed inside a box in a way that the screen becomes square. Placed in this way, I look up to the viewers who, in their turn, look down on me.
 <!--more-->
 
-Self-portrait can be previewed here. But please remember this is a low quality version and the real work is supposed to be see in a large horizontally placed LCD screen.
+**Self-portrait** can be previewed here. But please remember this is a low quality version and the real work is supposed to be see in a large LCD screen placed horizontally on the floor:
 {{< vimeo 370289 >}}
 
-Self-portrait was shown in the following places:
+#### Public presentations
 
-* 2007 [Lisbon Village Festival – The Next Big Thing][1] – Lisboa, Portugal
-
-[1]: http://lisbon07.villagefestival.net/en/home.aspx
+* 2007 Lisbon Village Festival, The Next Big Thing at Museu das Telecomunicações, Lisboa
