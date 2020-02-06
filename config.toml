@@ -1,4 +1,4 @@
-baseURL = "http://works.nunogodinho.com/"
+baseURL = "https://works2.nunogodinho.com/"
 languageCode = "en-us"
 title = "Works by Nuno Godinho"
 theme = "nununo-creative-portfolio-theme"
@@ -8,10 +8,11 @@ theme = "nununo-creative-portfolio-theme"
   tag = "tags"
   year = "years"
 
-[permalinks]
-  works = "/:title/"
+#[permalinks]
+#  works = "/:title/"
 
 [params]
+  style = "blue"
   copyright = "&copy;2020 Nuno Godinho"
 
   [[params.navlinks]]
