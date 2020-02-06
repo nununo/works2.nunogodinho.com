@@ -17,3 +17,6 @@ But while in conventional cinema the device is exterior to the viewer who must r
 {{< vimeo 51829086 >}}
 
 An English title would be "That too shall pass".
+
+#### Public presentations
+* 15e Édition Ouvertures d'Ateliers d'Artistes 2013, Marseille
