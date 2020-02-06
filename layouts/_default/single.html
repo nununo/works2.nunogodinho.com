@@ -6,6 +6,7 @@
       <div class="content-column-content">
          <h1>{{ .Title }}</h1>
          {{ if .Params.technical_description }}<p><em>{{ .Params.technical_description }}</em></p>{{ end }}
+         {{ if .Params.location }}<p><strong>@ {{ .Params.location }}</strong></p>{{ end }}
          {{ .Content }}
       </div>
     </div>
