@@ -1,13 +1,12 @@
 ---
 title: "Schok Festival 2017"
 date: 2017-10-06T00:00:00Z
+location: Schoorl, Netherlands
 categories: [event]
 tags: []
 year: [2017]
-draft: true
+draft: false
 ---
-
-**@ Schoorl, Netherlands**
 
 In June 2017 I created [Elsewhere][1], an audio piece, to participate in [Schok 2017][2] which happened in Schoorl, Netherlands.
 <!--more-->
@@ -16,5 +15,5 @@ Seven Elsewhere audio boxes where placed in several public locations of the vill
 
 {{< gallery "images/*" >}}
 
-[1]: /works/elsewhere
-[2]: http://www.schoorlsekunsten.nl/SchoK_2017
+[1]: {{< ref "elsewhere" >}}
+[2]: <http://www.schoorlsekunsten.nl/SchoK_2017>

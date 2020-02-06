@@ -1,13 +1,12 @@
 ---
 title: "Collective exhibition Panorama"
 date: 2018-03-05T00:00:00Z
+location: Hotel Le Consulat, Lisboa
 categories: [event]
 tags: []
 year: [2018]
-draft: true
+draft: false
 ---
-
-**@ Le Consulat**
 
 In May 2017 I participated in the first collective exhibition of Hotel [Le Consulat][1] in Lisboa. It was curated by Adelaide Ginga.
 <!--more-->
@@ -16,16 +15,18 @@ In May 2017 I participated in the first collective exhibition of Hotel [Le Consu
 
 I presented two pieces: the interactive video installation [Vela][2] and the sculpture [Também Isso Passará][3].
 
+Some photos:
 {{< gallery "images/*" >}}
 
 {{< vimeo 258536723 >}}
 
 #### Press
+
 * [ARTECAPITAL][4]
 * [Observador][5]
 
 [1]: https://leconsulat.pt
-[2]: /works/candle
-[3]: /works/tambemissopassara
-[4]: http://www.artecapital.net/recomendacoes.php?ref=1229
-[5]: http://observador.pt/2017/05/25/consulado-do-brasil-da-lugar-a-um-hotel-onde-se-pode-dormir-entre-obras-de-arte
+[2]: {{< ref "candle" >}}
+[3]: {{< ref "tambemissopassara" >}}
+[4]: <http://www.artecapital.net/recomendacoes.php?ref=1229>
+[5]: <http://observador.pt/2017/05/25/consulado-do-brasil-da-lugar-a-um-hotel-onde-se-pode-dormir-entre-obras-de-arte>
