@@ -20,7 +20,7 @@ Some frames:
 #### Public presentations
 
 * 15e Édition Ouvertures d'Ateliers d'Artistes 2013, Marseille
-* Abertura de Ateliês de Artistas 2011, Lisboa
+* Abertura de Ateliês de Artistas 2013, Lisboa
 * [Exposição colectiva Paisagem][2] at Sociedade Nacional de Belas Artes, Lisboa
 
 [1]: http://www.seditionart.com/nuno_godinho/acting-naturally

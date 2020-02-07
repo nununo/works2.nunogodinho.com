@@ -19,7 +19,7 @@ An possible English title would be "That too shall pass".
 
 #### Public presentations
 
-* [Abertura de Ateliês de Artistas 2013][1] at [Atelier Concorde][2], Lisboa
+* [Abertura de Ateliês de Artistas 2012][1] at [Atelier Concorde][2], Lisboa
 * 15e Édition Ouvertures d'Ateliers d'Artistes 2013, Marseille
 
 [1]: https://castelodif.pt/index.php/castelo-d-if/aaa-2013

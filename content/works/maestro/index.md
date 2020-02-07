@@ -24,7 +24,7 @@ I wish to thank Graham Hurman for giving me permission to use his image in my pr
 #### Public presentations
 
 * SmallBox28 of Pavilhão 28, Lisboa
-* Abertura de Ateliês de Artistas 2011 at [Atelier Concorde][1], Lisboa
+* Abertura de Ateliês de Artistas 2010 at [Atelier Concorde][1], Lisboa
 * 13e Ouvertures d’Ateliers, Marseille, France
 
 [1]: http://atelierconcorde.org

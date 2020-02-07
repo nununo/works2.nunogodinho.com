@@ -21,6 +21,12 @@ Please note that the above picture is just a preview. The real work is a panoram
 The tile mosaic which inspired this project:
 ![Painel de azulejos][3]
 
+#### Public presentations
+
+* Abertura de Ateliers de Artistas 2010, Lisboa
+* [Collective exhibition Paisagem][4] at Sociedade Nacional de Belas Artes, Lisboa
+
 [1]: http://www.mnazulejo-ipmuseus.pt
 [2]: photos/lisboa1962.jpg
 [3]: photos/painel_azulejos.jpg
+[4]: {{< ref "paisagem-exhibition" >}}
