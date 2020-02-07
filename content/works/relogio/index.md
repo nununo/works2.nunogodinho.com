@@ -21,9 +21,11 @@ As we grow up, we learn to recognize specific patterns and forms without giving 
 
 * Displayed in [Geraldine][1] in 2010, Lisboa
 * [Abertura de Ateliês de Artistas 2010][2] at [Atelier Concorde][3], Lisboa
-* [Nevertheless collective exhibition][4] at [Atelier Concorde][3], Lisboa
+* [Ouvertures d'Ateliers d'Artistes 2011][4], Marseille
+* [Nevertheless collective exhibition][5] at [Atelier Concorde][3], Lisboa
 
 [1]: https://www.facebook.com/geraldine.lisboa
-[2]: https://www.castelodif.pt/index.php/castelo-d-if/aaa-2010
+[2]: {{< ref "abertura-atelies-artistas" >}}
 [3]: <https://atelierconcorde.org>
-[4]: {{< ref "nevertheless-exhibition" >}}
+[4]: {{< ref "ouvertures-ateliers-artistes" >}}
+[5]: {{< ref "nevertheless-exhibition" >}}
