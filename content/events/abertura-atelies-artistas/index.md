@@ -13,6 +13,7 @@ Since 2010, [Associação Castelo d'If][1] has been organizing an yearly event i
 I always try to participate.
 
 #### 2010
+
 ##### @ Atelier Concorde
 
 * [Lisboa 1962][2]
@@ -22,43 +23,56 @@ I always try to participate.
 
 [Event site][13]
 #### 2011
+
 ##### @ Atelier Concorde
 
 * [Fosfeno][6]
 * Floor drawing of Tagus river
 
 [Event site][14]
+
 #### 2012
+
 ##### @ Atelier Concorde
 
 * [Também isso passará][7]
 
 [Event site][15]
+
 #### 2013
+
 ##### @ Atelier Concorde
 
 * [Acting Naturally][8]
 
 [Event site][16]
+
 #### 2014
+
 ##### @ Atelier Concorde
 
 * Miradouro
 
 [Event site][17]
+
 #### 2016
+
 ##### @ Atelier Concorde
 
 * [Details of Trip to Nepal][9]
 
 [Event site][18]
+
 #### 2017
+
 ##### @ Atelier Concorde
 
 * [Vela][10]
 
 [Event site][19]
+
 #### 2019
+
 ##### @ [Atelier Vieira Ribeiro][11]
 
 * [Hyphae][12]
