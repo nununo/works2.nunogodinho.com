@@ -3,12 +3,14 @@ title: "Ouvertures d'Ateliers d'Artistes, Marseille"
 eate: 2013-09-27T00:00:00Z
 categories: [event]
 tags: []
-year: [2013]
-draft: true
+year: [2011, 2013]
+draft: false
 ---
 
-Every year in Marseille, [Association Chatêau de Servières][1] organizes an event in which dozens of artists open their studios to the public. For two times, I participated as guest artist, through their Portuguese sibling, [Associação Castelo d'If][2].
+Every year in Marseille, Association Chatêau de Servières organizes an event in which dozens of artists open their studios to the public.
 <!--more-->
+
+For two times, I participated as guest artist, through [Association Chatêau de Servières][1]'s Portuguese sibling, [Associação Castelo d'If][2].
 
 #### 2011
 

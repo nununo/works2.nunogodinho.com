@@ -1,15 +1,14 @@
 ---
 title: "Viagem"
 date: 2011-07-25T00:00:00Z
+technical_description: Video (4:3), color, projection with sound, 32” (loop)
 categories: [video]
 tags: []
 year: [2011]
 draft: true
 ---
 
-_Video (4:3), color, projection with sound, 32” (loop)_
-
-I was invited by [Salão de Beleza Bela][1] to make a contribution to their BANALITY SHOW in [BELA TV][2]. Here the [link page][3]. The challenge: to make a video telling a story as uneventful as possible.
+I was invited by Salão de Beleza Bela to make a contribution to their Banality Show in Bela TV. The challenge: to make a video telling a story as uneventful as possible.
 <!--more-->
 
 {{< vimeo 51829482 >}}
@@ -18,6 +17,8 @@ The piece was created in 2011. First I spent some days reflecting on what is a s
 This story would not be created, but found. This is the story I found.
 
 An English title for "Viagem" would be "Journey".
+
+Here the [link page][3] for [Salão de Beleza Bela][1] and their [BELA TV][2].
 
 [1]: http://alebazeleb.blogspot.com
 [2]: https://vimeo.com/alebazeleb

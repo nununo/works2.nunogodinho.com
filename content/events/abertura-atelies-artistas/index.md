@@ -4,13 +4,13 @@ date: 2010-10-18T00:00:00Z
 categories: [event]
 tags: [lisboa, portugal]
 year: [2010, 2011, 2012, 2013, 2014, 2016, 2017, 2019]
-draft: true
+draft: false
 ---
 
-Since 2010, [Associação Castelo d'If][1] has been organizing an yearly event in which dozens of artist's studios in Lisboa open their doors to the public.
+Since 2010, Associação Castelo d'If has been organizing an yearly event in which dozens of artist's studios in Lisboa open their doors to the public.
 <!--more-->
 
-I always try to participate.
+I always try to participate as I admire [Associação Castelo d'If][1]'s work and dedication.
 
 #### 2010
 

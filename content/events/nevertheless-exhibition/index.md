@@ -8,14 +8,10 @@ year: [2019]
 draft: false
 ---
 
-Nevertheless was a collective exhibition curated by [Andrés Jurado][1] in [Atelier Concorde][2] in May 2019.
+Nevertheless was a collective exhibition curated by André Jurado in May 2019.
 <!--more-->
 
-Here's the exhibition poster:
-
-{{< gallery "poster/*" >}}
-
-I presented [Relógio][3], as it fitted nicely with the proposed context of the exhibition:
+I presented [Relógio][3], as it fitted nicely with the context of the exhibition proposed by [Andrés Jurado][1]:
 
 > Proposes the artists to engage in the creation and production of objects imagining its cinematic or either theatrical performativeness. This can be interpreted as “too general”, nevertheless, after assuming all the alterations advised in the contemporary arts by The Performative Turn, the less is to consider this performativeness of the art object in two circumstances:
 >
@@ -27,6 +23,9 @@ I presented [Relógio][3], as it fitted nicely with the proposed context of the 
 
 Some photos:
 {{< gallery "photos/*" >}}
+
+Here's the exhibition poster:
+{{< gallery "poster/*" >}}
 
 [1]: http://andresjurado.com
 [2]: https://atelierconcorde.org

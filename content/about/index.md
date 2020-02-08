@@ -15,23 +15,6 @@ He is a co-founder of [Atelier Concorde][1] of which he is an associated artist.
 
 I live in Lisbon, Portugal. You can contact me by email: mail@nunogodinho.com
 
-#### Selected exhibitions
-
-* Collective exhibition [Nevertheless][2], Lisboa (2019)
-* [SchoK Festival 2019][3], Schoorl, Holland (2017)
-* Guest artist on Isabel Garcia's [Matriz exhibtion][4] at Galeria Serpente, Porto (2019)
-* [Schok Festival 2017][5], Schoorl, Holland (2017)
-* Collective exhibition [Panorama][6], Lisboa (2017)
-* Collective exhibition [Paisagem][7] at Sociedade Nacional de Belas Artes, Lisboa (2017)
-* Collective exhibition at Ouvertures d’Ateliers d’Artistes, Marseille (2013)
-* Collective exhibition at Ouvertures d’Ateliers d’Artistes, Marseille (2011)
-* Collective exhibition at Ateliers Abertos, Lisboa (2010)
-* Relógio exhibited at Geraldine, Lisboa (2010)
-* Collective exhibition at Pavilhão 28, Lisboa (2010)
-* Collective exhibition at Arte ComTempo, Lisboa (2008)
-* Collective exhibition “Next Big Thing” at Village Festival, Lisboa (2007)
-* Collective video art exhibition “Liquid room”, Lithuania (2007)
-
 [1]: https://atelierconcorde.org
 [2]: {{< ref "nevertheless-exhibition" >}}
 [3]: {{< ref "schok2019" >}}

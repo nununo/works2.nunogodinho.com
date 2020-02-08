@@ -8,19 +8,18 @@ year: [2019]
 draft: false
 ---
 
-Isabel Garcia invited me to participate in her exhibition Matriz which was held in [Galeria Serpente][1] in Porto, Portugal in March 2019.
+Isabel Garcia invited me to participate in her exhibition Matriz which was held in Galeria Serpente in March 2019.
 <!--more-->
 
-Isabel's work in Matriz consisted of several bread-shaped bronze sculptures, drawings made using those sculptures as stencils and a bronze and paper sculpture made in collaboration with [Filipa Dias][2].
+Isabel's work in Matriz consisted of several bread-shaped bronze sculptures, drawings made using those sculptures as stencils and a bronze and paper sculpture made in collaboration with Filipa Dias.
 
-I made a generative video called [Hyphae][3] which was presented in a 50″ LCD screen. The video was being generated in real time.
+I made a generative video called [Hyphae][2] which was presented in a 50″ LCD screen. The video was being generated in real time.
 {{< gallery "photos/*" >}}
 
 The invitation:
 {{< gallery "invitation/*" >}}
 
-I would like to thank Isabel Garcia for having invited me to participate in her exhibition.
+I would like to thank Isabel Garcia for having invited me to participate in her exhibition and [Galeria Serpente][1] for all their help.
 
 [1]: http://galeriaserpente.com
-[2]: https://www.tsuri.studio
-[3]: /works/hyphae
+[2]: /works/hyphae

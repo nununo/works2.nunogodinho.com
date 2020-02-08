@@ -5,11 +5,13 @@ location: Schoorl, Netherlands
 categories: [event]
 tags: []
 year: [2019]
-draft: true
+draft: false
 ---
 
-As a natural evolution of the [Hyphae][1] generative video presented in Galeria Serpente in March 2019, I created prints of some of the generated Hyphae. These were presented in [SchoK Festival 2019][2] in Schoorl, Netherlands.
+As a natural evolution of the Hyphae generative video, I presented prints of some of the generated organisms. 
 <!--more-->
+
+[Here][1] is the original **Hyphae** generative video which generated the prints presented in [SchoK Festival 2019][2] in Schoorl, Netherlands.
 
 They were displayed in an old stable house:
 {{< gallery "photos/*" >}}

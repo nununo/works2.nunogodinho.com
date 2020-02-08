@@ -7,10 +7,10 @@ year: [2007]
 draft: false
 ---
 
-**Poupe-nos** is a small 30" clip made just for fun to participate in a [SIC television network][1] contest about environment awareness.
+**Poupe-nos** is a small 30" clip made just for fun to participate in a SIC television network contest about environment awareness.
 <!--more-->
 
-Authors: Sílvia González, Mário Silva, Rui Almeida and me. It ended up being one of the chosen clips to be broadcast on Environment Day.
+Authors: Sílvia González, Mário Silva, Rui Almeida and me. It ended up being one of the chosen clips to be broadcast on [SIC][1]'s Environment Day.
 
 You can preview it here:
 {{< vimeo 370296 >}}

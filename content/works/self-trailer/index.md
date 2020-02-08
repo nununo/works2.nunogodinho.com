@@ -8,10 +8,12 @@ year: [2006]
 draft: true
 ---
 
-I was asked to make a trailer on myself. I made this video in which, using a video projector, I projected the french trailer of Sergio Leone’s [The Good, The Bad and The Ugly][1] directly on myself.
+I was asked to make a trailer on myself. I made this video in which, using a video projector, I projected the french trailer of Sergio Leone’s **The Good, The Bad and The Ugly** directly on myself.
 <!--more-->
 
 Self-trailer can be previewed here. Please remember this is a low quality web version. You’re supposed to view it in a projection or a big screen:
 {{< vimeo 370529 >}}
+
+[The Good, The Bad and The Ugly][1] on IMDB.
 
 [1]: http://www.imdb.com/title/tt0060196
