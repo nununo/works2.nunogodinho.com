@@ -4,4 +4,9 @@
 
 ### vimeo shortcode
 
-In order for the custom CSS to be applied (to add some margin-bottom) an explicit `class="vimeo"` must be added to the shortcode. Example: `{{< vimeo id="51829482" class="vimeo" >}}` instead of just `{{< vimeo 51829482 >}}`.
+For some strange reason, in order for the Vimeo shortcode to add some space below it, some text must be added above it. Example:
+
+>>>
+You can preview it here:
+{{< vimeo 51829482 >}}
+<<<
