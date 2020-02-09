@@ -1,6 +1,6 @@
 ---
 title: "Elsewhere"
-date: 2020-01-27T22:40:30Z
+date: 2017-06-01T00:00:00Z
 technical_description: "Binaural recordings, 7 pieces 10-20’ each, headphones, mp3 player, wooden box"
 categories: [audio]
 years: [2017]

@@ -1,6 +1,6 @@
 ---
 title: "Candle"
-date: 2020-01-27T22:36:57Z
+date: 2017-03-01T00:00:00Z
 technical_description: "Interactive video (16:9 vertical), color, no sound, variable duration, 24” LCD screen in black frame (70x50x10cm)"
 categories: [video]
 tags: [arduino, generative, interactive, python, sensors]
