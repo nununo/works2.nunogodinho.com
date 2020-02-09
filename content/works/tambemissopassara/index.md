@@ -13,6 +13,7 @@ This sculpture is a film.
 
 But while in conventional cinema the device is exterior to the viewer who must remain passive, here the viewer is part of it. And thus takes part in it. The film materialised in the sculpture is only revealed when the viewer moves around it, while focusing on its silhouette.
 
+Walk around it:
 {{< vimeo 51829086 >}}
 
 An possible English title would be "That too shall pass".

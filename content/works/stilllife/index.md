@@ -11,8 +11,7 @@ draft: false
 A homage to classical still life painting tradition.
 <!--more-->
 
-Still Life can be previewed here. But please remember this is a low quality version and the real work is supposed to be seen in a full screen color monitor.
-
+Still Life can be previewed here. But please remember this is a low quality version and the real work is supposed to be seen in a full screen color monitor:
 {{< vimeo 370299 >}}
 
 #### Public presentations

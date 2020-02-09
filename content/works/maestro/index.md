@@ -11,6 +11,7 @@ draft: false
 The maestro is forced to move in a way he never intended to and in this way creates music he never wished for.
 <!--more-->
 
+**Maestro** can be previewed here:
 {{< vimeo 9754197 >}}
 
 Taking CCTV footage of a maestro conducting an orchestra, the position of his baton on each frame was determined, indexed and stored digitally, effectively converting the original diachronic video clip into a database of directly accessible individual frames. Once enough frames were indexed to represent baton positions covering the whole space of possibilities, the process was inverted: specific frames were chosen based on the desired positions of the baton. Having decided it should travel through a circular path, a new frame sequence representing it was rendered again into a new video.

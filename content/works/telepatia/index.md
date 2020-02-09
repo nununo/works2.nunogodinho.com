@@ -11,7 +11,6 @@ I made a transcription for music box of the famous portuguese pop song “Telepa
 <!--more-->
 
 Here's a video of it being played:
-
 {{< vimeo 7642154 >}}
 
 Here you can listen to the audio:

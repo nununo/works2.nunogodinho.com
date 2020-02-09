@@ -11,6 +11,7 @@ draft: true
 I was invited by Salão de Beleza Bela to make a contribution to their Banality Show in Bela TV. The challenge: to make a video telling a story as uneventful as possible.
 <!--more-->
 
+**Viagem** can be previewed here:
 {{< vimeo 51829482 >}}
 
 The piece was created in 2011. First I spent some days reflecting on what is a story, what is an event, and what are the relationships and interdependencies between both these concepts. I realised that, unlike most of my work, this one would not be the result of an iterative process comprehending experiments, failures and detours.

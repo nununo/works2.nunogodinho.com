@@ -12,7 +12,7 @@ draft: false
 
 Authors: Sílvia González, Mário Silva, Rui Almeida and me. It ended up being one of the chosen clips to be broadcast on [SIC][1]'s Environment Day.
 
-You can preview it here:
+You can watch it here:
 {{< vimeo 370296 >}}
 
 #### Public presentations
