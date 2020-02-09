@@ -8,3 +8,7 @@ div.Gallery__item {
 .sidebar-menu {
     margin-bottom: 20px;
 }
+
+.copyright p.credit {
+    text-align: left !important;
+}
