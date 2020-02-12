@@ -19,7 +19,7 @@ A video of someone interacting with the Candle:
 {{< vimeo 237044360 >}}
 
 Some frames:
-{{< gallery "frames/*" >}}
+{{< gallery match="frames/*" col_lg=4 >}}
 
 Technicalities: two bend sensors capture the air movement around the frame. Their signals are sent to a custom-made amplifier and then fed into an [Arduino][2] which finally sends them to a [Raspberry Pi][3] which is responsible for generating the video based on the sensor data. The code can be found in [GitHub][4].
 

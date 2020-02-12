@@ -16,7 +16,11 @@ The exhibition took place in [Sociedade Nacional de Belas Artes][2], in Lisboa, 
 I presented two pieces: a video called [Acting Naturally][3] and a photo collage called [Lisboa, 1962][4].
 
 Some photos:
-{{< gallery "images/*" >}}
+{{< gallery match="images/*" col_lg=6 col_md=6 >}}
+
+The invitation:
+
+![Invitation][6]
 
 I would like to thank [Associação Castelo d'If][1] for the invitation and for organizing the [Aberturas de Ateliês de Artistas][5].
 
@@ -25,3 +29,4 @@ I would like to thank [Associação Castelo d'If][1] for the invitation and for 
 [3]: {{< ref "actingnaturally" >}}
 [4]: {{< ref "lisboa1962" >}}
 [5]: {{< ref "abertura-atelies-artistas" >}}
+[6]: invitation/convite.jpg

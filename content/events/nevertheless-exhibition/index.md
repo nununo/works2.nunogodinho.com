@@ -22,11 +22,13 @@ I presented [Relógio][3], as it fitted nicely with the context of the exhibitio
 > This can be hypothetically resolved if we imagine our object of art as part of a theater play or part of a screenplay. So the question is: how do you imagine your piece of art performing in that market plot?
 
 Some photos:
-{{< gallery "photos/*" >}}
+{{< gallery match="photos/*" col_lg=12 col_md=12 col_sm=12 >}}
 
 Here's the exhibition poster:
-{{< gallery "poster/*" >}}
+
+![Poster][4]
 
 [1]: http://andresjurado.com
 [2]: https://atelierconcorde.org
 [3]: {{< ref "relogio" >}}
+[4]: poster/nevertheless-exhibition-invitation.jpg

@@ -21,7 +21,7 @@ Here's a video sample:
 {{< vimeo 924338 >}}
 
 And here are some frames from the video:
-{{< gallery "images/*" >}}
+{{< gallery match="images/*" col_md=6 col_lg=6 >}}
 
 #### Public presentations
 

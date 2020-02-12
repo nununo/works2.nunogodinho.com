@@ -15,6 +15,6 @@ The initial subject was Atlantis but everyone was free to organically evolve to 
 Being a school exercise I decided to publish its whole investigation process in a blog. Here’s the [link][1].
 
 Here are some pictures. Click to enlarge:
-{{< gallery "photos/*" >}}
+{{< gallery match="photos/*" col_lg=4 >}}
 
 [1]: http://portasdeagartha.blogspot.com

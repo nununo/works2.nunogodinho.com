@@ -14,7 +14,7 @@ Having recorded several binaural field recordings in different places in Lisboa,
 
 When you put on the headphones, what you see is still the place you’re in, but the sound will transport you elsewhere.
 
-{{< gallery "photos/*" >}}
+{{< gallery match="photos/*" col_lg=6 col_md=6 >}}
 
 Here are two examples of sounds. Being binaural recordings, they only work if you use headphones, speakers will not create the desired immersive effect.
 
