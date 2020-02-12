@@ -15,7 +15,7 @@ After building a very detailed and realistic scenery, I hired 27 actors who pain
 {{< sedition 101928>}}
 
 Some frames:
-{{< gallery2 path="images/*" columns=3 >}}
+{{< gallery match="images/*" col_sm=12 col_md=12 col_lg=12 >}}
 
 #### Public presentations
 

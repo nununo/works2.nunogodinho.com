@@ -11,7 +11,7 @@ draft: false
 Hyphae are the cell filaments that create the mycelium, the vegetative part of a fungus. They grow and subdivide in all directions in search of nutrients needed for its development.
 <!--more-->
 
-{{< gallery "images/*" >}}
+{{< gallery match="images/*" col_lg=4 col_sm=12 >}}
 
 **Hyphae** is a generative video in which a computer algorithm draws infinite iterations of unique organisms inspired by Rhizopus stolonifer, a kind of bread mold, simulating its evolutive and reproductive process.
 

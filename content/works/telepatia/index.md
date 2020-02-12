@@ -19,7 +19,7 @@ Here you can listen to the audio:
 {{< audio "audio/telepatia-caixinha_de_musica.mp3" >}}
 
 Here are some pictures:
-{{< gallery "photos/*" >}}
+{{< gallery match="photos/*" col_lg=6 col_md=6 >}}
 
 And here's the perfurated strip:
 [![Perfurated strip][2]][2]

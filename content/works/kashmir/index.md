@@ -14,7 +14,7 @@ If you understand Portuguese you can read the article [here][1].
 
 Here are the pictures which were published together with the text:
 
-{{< gallery "photos/*" >}}
+{{< gallery match="photos/*" col_lg=4 >}}
 
 If you want to see more pictures my photo album from Kashmir is [here][2].
 

@@ -5,13 +5,13 @@
         <p class="sidebar-p">{{ . | safeHTML }}</p>
       {{ end }}
       <ul class="sidebar-menu">
-        {{ range .Site.Params.navlinks }}
-          {{ if .name }}
+        {{- range .Site.Params.navlinks -}}
+          {{- if .name }}
             <li><a href="{{ absURL .url }}">{{ .name }}</a></li>
-          {{ else }}
+          {{- else }}
              </ul><ul class="sidebar-menu">
-          {{ end }}
-        {{ end }}
+          {{- end -}}
+        {{- end }}
       </ul>
       <p>&nbsp;</p> 
       <p>&nbsp;</p> 
@@ -19,12 +19,12 @@
       <p>&nbsp;</p> 
       <div class="copyright">
         <p class="credit">
-          {{ with .Site.Params.copyright }}
-            {{ . | safeHTML }}
-          {{ end }}
+          {{- with .Site.Params.copyright -}}
+            {{- . | safeHTML -}}
+          {{- end -}}
         </p>
         <p class="credit">
-          {{ partial "attribution.html" . }}
+          {{- partial "attribution.html" . -}}
         </p>
       </div>
     </div>

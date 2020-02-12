@@ -16,7 +16,7 @@ In May 2017 I participated in the first collective exhibition of Hotel Le Consul
 I presented two pieces: the interactive video installation [Vela][2] and the sculpture [Também Isso Passará][3].
 
 Some photos:
-{{< gallery "images/*" >}}
+{{< gallery match="images/*" col_lg=6 col_md=6 >}}
 
 {{< vimeo 258536723 >}}
 

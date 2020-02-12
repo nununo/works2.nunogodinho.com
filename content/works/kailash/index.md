@@ -14,7 +14,7 @@ If you understand Portuguese you can read it [here][1].
 
 Here are some pictures to go along with it:
 
-{{< gallery "photos/*" >}}
+{{< gallery match="photos/*" col_lg=4 >}}
 
 If you want to see more pictures my photo album from Tibet is [here][2].
 

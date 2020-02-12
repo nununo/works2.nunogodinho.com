@@ -1,6 +1,6 @@
 ---
 title: "Candle"
-date: 2020-01-27T22:36:57Z
+date: 2017-03-01T00:00:00Z
 technical_description: "Interactive video (16:9 vertical), color, no sound, variable duration, 24” LCD screen in black frame (70x50x10cm)"
 categories: [video]
 tags: [arduino, generative, interactive, python, sensors]
@@ -19,7 +19,7 @@ A video of someone interacting with the Candle:
 {{< vimeo 237044360 >}}
 
 Some frames:
-{{< gallery "frames/*" >}}
+{{< gallery match="frames/*" col_lg=4 >}}
 
 Technicalities: two bend sensors capture the air movement around the frame. Their signals are sent to a custom-made amplifier and then fed into an [Arduino][2] which finally sends them to a [Raspberry Pi][3] which is responsible for generating the video based on the sensor data. The code can be found in [GitHub][4].
 
