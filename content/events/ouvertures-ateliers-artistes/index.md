@@ -1,9 +1,9 @@
 ---
 title: "Ouvertures d'Ateliers d'Artistes, Marseille"
-eate: 2013-09-27T00:00:00Z
+date: 2013-09-27T00:00:00Z
 categories: [event]
 tags: []
-year: [2011, 2013]
+years: [2011, 2013]
 draft: false
 ---
 
@@ -14,14 +14,14 @@ For two times, I participated as guest artist, through [Association Chatêau de 
 
 #### 2011
 
-##### @ Atelier des Capucins
+###### @ Atelier des Capucins
 
 * [Fosfeno][3]
 * [Relógio][4]
 
 #### 2013
 
-##### @ Atelier de Nicolas Ramel
+###### @ Atelier de Nicolas Ramel
 
 * [Também isso passará][5]
 * [Acting Naturally][6]

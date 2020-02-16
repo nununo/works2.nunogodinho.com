@@ -4,7 +4,7 @@ date: 2005-11-03T00:00:00Z
 technical_description: video (4:3), sound, 1'50"
 categories: [video]
 tags: [found footage]
-year: [2005]
+years: [2005]
 draft: false
 ---
 

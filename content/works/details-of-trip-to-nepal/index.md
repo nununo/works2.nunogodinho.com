@@ -4,7 +4,7 @@ date: 2016-12-01T00:00:00Z
 technical_description: "Photographs (50x50cm), color"
 categories: [photo]
 tags: []
-year: [2016]
+years: [2016]
 draft: false
 ---
 

@@ -17,7 +17,7 @@ Hyphae are the cell filaments that create the mycelium, the vegetative part of a
 
 #### Public presentations
 
-* [Matriz exhibition][1] at Galeria Serpente
+* [Matriz exhibition][1] at Galeria Serpento
 * One evening exhibition at [Mill][2], Lisboa
 
 This project was developed in C++ using [openFrameworks][3] and its source code is available in [Github][4].

@@ -4,7 +4,7 @@ date: 2017-05-06T00:00:00Z
 location: Sociedade Nacional de Belas Artes, Lisboa
 categories: [event]
 tags: []
-year: [2017]
+years: [2017]
 draft: false
 ---
 

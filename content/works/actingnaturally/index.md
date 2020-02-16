@@ -4,7 +4,7 @@ date: 2013-10-20T00:00:00Z
 technical_description: "Video projection (32:9), color, no sound, 10'"
 categories: [video]
 tags: []
-year: [2013]
+years: [2013]
 draft: false
 ---
 

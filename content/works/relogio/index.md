@@ -4,7 +4,7 @@ date: 2010-12-30T00:00:00Z
 technical_description: Object (14 x 14 x 6 cm), arduino, 7-segment display
 categories: [object]
 tags: []
-year: [2010]
+years: [2010]
 draft: false
 ---
 

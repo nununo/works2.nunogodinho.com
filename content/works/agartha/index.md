@@ -3,7 +3,7 @@ title: "Agartha Existe"
 date: 2007-06-23T00:00:00Z
 categories: [others]
 tags: [streetart]
-year: [2007]
+years: [2007]
 draft: false
 ---
 

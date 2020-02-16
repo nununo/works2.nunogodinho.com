@@ -4,7 +4,7 @@ date: 2006-07-12T00:00:00Z
 technical_description: Video installation, video (4:3), color, no sound, 2'32" loop
 categories: [video]
 tags: []
-year: [2006]
+years: [2006]
 draft: false
 ---
 

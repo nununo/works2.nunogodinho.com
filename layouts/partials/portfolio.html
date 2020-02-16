@@ -10,7 +10,7 @@
                         {{ else }}
                         <a href="{{ .Permalink }}" title="" class="box-masonry-image with-hover-overlay with-hover-icon">
                         {{ end }}
-                            <img src="{{ with .File }}{{ .Dir | absURL}}{{ end }}thumbnail.jpg" alt="" class="img-responsive">
+                            <img src="{{ with .File }}{{ .ContentBaseName | absURL }}{{ end }}/thumbnail.jpg" alt="" class="img-responsive">
                         </a>
                       {{ if eq .Params.showonlyimage true }}
                       <div class="box-masonry-hover-text-header">

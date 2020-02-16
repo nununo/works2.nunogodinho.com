@@ -3,7 +3,7 @@ title: "Kailash"
 date: 2006-05-28T00:00:00Z
 categories: [words]
 tags: [kailash, portuguese, tibet]
-year: [2006]
+years: [2006]
 draft: false
 ---
 

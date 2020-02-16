@@ -4,7 +4,7 @@ date: 2011-07-25T00:00:00Z
 technical_description: Video (4:3), color, projection with sound, 32” (loop)
 categories: [video]
 tags: []
-year: [2011]
+years: [2011]
 draft: true
 ---
 

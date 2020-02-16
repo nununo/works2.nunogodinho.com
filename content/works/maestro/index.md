@@ -4,7 +4,7 @@ date: 2010-02-01T00:00:00Z
 technical_description: Projected video (DVD 4:3), b&w, sound, 9'32" (loop)
 categories: [video]
 tags: []
-year: [2010]
+years: [2010]
 draft: false
 ---
 

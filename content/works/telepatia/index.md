@@ -3,11 +3,11 @@ title: "Telepatia"
 date: 2003-12-01T00:00:00Z
 categories: [audio]
 tags: []
-year: [2003]
+years: [2003]
 draft: true
 ---
 
-I made a transcription for music box of the famous portuguese pop song “Telepatia” by singer/composer [Lara Li][1].
+I made a transcription for music box of the famous portuguese pop song “Telepatia” by singer/composer Lara Li.
 <!--more-->
 
 Here's a video of it being played:
@@ -22,7 +22,6 @@ Here are some pictures:
 {{< gallery match="photos/*" col_lg=6 col_md=6 >}}
 
 And here's the perfurated strip:
-[![Perfurated strip][2]][2]
+[![Perfurated strip][2]][1]
 
-[1]: http://pt.wikipedia.org/wiki/Lara_Li
-[2]: fita/telepatia-fita-perfurada.jpg
+[1]: fita/telepatia-fita-perfurada.jpg

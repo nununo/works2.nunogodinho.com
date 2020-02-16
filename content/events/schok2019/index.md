@@ -4,7 +4,7 @@ date: 2019-06-13T00:00:00Z
 location: Schoorl, Netherlands
 categories: [event]
 tags: []
-year: [2019]
+years: [2019]
 draft: false
 ---
 

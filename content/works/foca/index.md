@@ -4,7 +4,7 @@ date: 2006-01-03T00:00:00Z
 technical_description: Video loop (4:3), color, no sound, 1'13"
 categories: [video]
 tags: [minidv]
-year: [2006]
+years: [2006]
 draft: false
 ---
 

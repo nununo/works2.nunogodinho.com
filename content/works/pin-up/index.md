@@ -4,7 +4,7 @@ date: 2006-09-31T00:00:00Z
 technical_description: Generative video (16:9 vertical), color, 19" LCD screen, variable duration
 categories: [video]
 tags: [generative, vvvv]
-year: [2006]
+years: [2006]
 draft: false
 ---
 

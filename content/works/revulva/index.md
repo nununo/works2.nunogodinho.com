@@ -4,7 +4,7 @@ date: 2011-07-17T00:00:00Z
 technical_description: Video loop (16:9), color, no sound, 59"
 categories: [video]
 tags: []
-year: [2011]
+years: [2011]
 draft: false
 ---
 

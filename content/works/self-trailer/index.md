@@ -4,7 +4,7 @@ date: 2006-01-03T00:00:00Z
 technical_description: Video (4:3), mini DV, color, sound, 2'
 categories: [video]
 tags: [found footage, minidv, projection]
-year: [2006]
+years: [2006]
 draft: true
 ---
 

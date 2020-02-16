@@ -3,7 +3,7 @@ title: "Emoções"
 date: 2005-06-02T00:00:00Z
 categories: [audio, video]
 tags: [ArCo, MaxMSP, minidv]
-year: [2005]
+years: [2005]
 draft: false
 ---
 

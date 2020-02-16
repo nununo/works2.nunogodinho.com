@@ -1,4 +1,4 @@
-baseURL = "https://works2.nunogodinho.com/"
+baseURL = "https://works.nunogodinho.com/"
 languageCode = "en-us"
 title = "Nuno Godinho"
 theme = "hugo-creative-portfolio-theme"
@@ -8,8 +8,9 @@ theme = "hugo-creative-portfolio-theme"
   tag = "tags"
   year = "years"
 
-#[permalinks]
-#  works = "/:title/"
+[permalinks]
+  works = "/:filename/"
+  events = "/:filename/"
 
 [params]
   style = "blue"

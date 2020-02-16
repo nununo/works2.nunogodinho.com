@@ -13,7 +13,7 @@ He is a co-founder of [Atelier Concorde][1] of which he is an associated artist.
 
 #### Contacts
 
-I live in Lisbon, Portugal. You can contact me by email: mail@nunogodinho.com
+I live in Lisbon, Portugal. You can contact me by email: {{< email contact >}}
 
 [1]: https://atelierconcorde.org
 [2]: {{< ref "nevertheless-exhibition" >}}

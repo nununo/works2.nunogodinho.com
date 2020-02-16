@@ -4,7 +4,7 @@ date: 2017-10-06T00:00:00Z
 location: Schoorl, Netherlands
 categories: [event]
 tags: []
-year: [2017]
+years: [2017]
 draft: false
 ---
 

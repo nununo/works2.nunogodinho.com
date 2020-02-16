@@ -4,7 +4,7 @@ date: 2004-12-03T00:00:00Z
 technical_description: Video loop (4:3), color, no sound, 1'03"
 categories: [video]
 tags: [minidv, still life]
-year: [2004]
+years: [2004]
 draft: false
 ---
 

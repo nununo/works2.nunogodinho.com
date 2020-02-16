@@ -4,7 +4,7 @@ date: 2012-10-28T00:00:00Z
 technical_description: Sculpture, aluminium
 categories: [object]
 tags: []
-year: [2012]
+years: [2012]
 draft: false
 ---
 

@@ -4,7 +4,7 @@ date: 2011-05-09T00:00:00Z
 technical_description: Generative video (16:9 vertical), color, 19” LCD screen, variable duration
 categories: [video]
 tags: [generative, openframeworks]
-year: [2011]
+years: [2011]
 draft: false
 ---
 

@@ -3,7 +3,7 @@ title: "Abertura de Ateliês de Artistas"
 date: 2010-10-18T00:00:00Z
 categories: [event]
 tags: [lisboa, portugal]
-year: [2010, 2011, 2012, 2013, 2014, 2016, 2017, 2019]
+years: [2010, 2011, 2012, 2013, 2014, 2016, 2017, 2019]
 draft: false
 ---
 
@@ -12,9 +12,64 @@ Since 2010, Associação Castelo d'If has been organizing an yearly event in whi
 
 I always try to participate as I admire [Associação Castelo d'If][1]'s work and dedication.
 
+#### 2019
+
+###### @ [Atelier Vieira Ribeiro][11]
+
+* [Hyphae][12]
+
+#### 2017
+
+###### @ [Atelier Concorde][20]
+
+* [Vela][10]
+
+[Event site][19]
+
+#### 2016
+
+###### @ Atelier Concorde
+
+* [Details of Trip to Nepal][9]
+
+[Event site][18]
+
+#### 2014
+
+###### @ Atelier Concorde
+
+* Miradouro
+
+[Event site][17]
+
+#### 2013
+
+###### @ Atelier Concorde
+
+* [Acting Naturally][8]
+
+[Event site][16]
+
+#### 2012
+
+###### @ Atelier Concorde
+
+* [Também isso passará][7]
+
+[Event site][15]
+
+#### 2011
+
+###### @ Atelier Concorde
+
+* [Fosfeno][6]
+* Floor drawing of Tagus river
+
+[Event site][14]
+
 #### 2010
 
-##### @ Atelier Concorde
+###### @ Atelier Concorde
 
 * [Lisboa 1962][2]
 * [Pin-up][3]
@@ -22,60 +77,6 @@ I always try to participate as I admire [Associação Castelo d'If][1]'s work an
 * [Maestro][5]
 
 [Event site][13]
-#### 2011
-
-##### @ Atelier Concorde
-
-* [Fosfeno][6]
-* Floor drawing of Tagus river
-
-[Event site][14]
-
-#### 2012
-
-##### @ Atelier Concorde
-
-* [Também isso passará][7]
-
-[Event site][15]
-
-#### 2013
-
-##### @ Atelier Concorde
-
-* [Acting Naturally][8]
-
-[Event site][16]
-
-#### 2014
-
-##### @ Atelier Concorde
-
-* Miradouro
-
-[Event site][17]
-
-#### 2016
-
-##### @ Atelier Concorde
-
-* [Details of Trip to Nepal][9]
-
-[Event site][18]
-
-#### 2017
-
-##### @ Atelier Concorde
-
-* [Vela][10]
-
-[Event site][19]
-
-#### 2019
-
-##### @ [Atelier Vieira Ribeiro][11]
-
-* [Hyphae][12]
 
 [1]: http://www.castelodif.pt
 [2]: {{< ref "lisboa1962" >}}
@@ -96,3 +97,4 @@ I always try to participate as I admire [Associação Castelo d'If][1]'s work an
 [17]: <http://www.castelodif.pt/index.php/castelo-d-if/aaa-2014>
 [18]: <http://www.castelodif.pt/index.php/castelo-d-if/aaa-2016>
 [19]: <http://www.castelodif.pt/index.php/castelo-d-if/aaa-2017>
+[20]: <https://atelierconcorde.org>

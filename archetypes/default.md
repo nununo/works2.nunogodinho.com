@@ -4,7 +4,7 @@ date: {{ .Date }}
 technical_descrition: "..."
 categories: []
 tags: []
-year: []
+years: []
 draft: true
 ---
 
